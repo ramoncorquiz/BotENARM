@@ -85,4 +85,3 @@ pywhatkit.sendwhatmsg_instantly("+526462188266", mensajeWhatsApp, 10)
   
 
 
-
