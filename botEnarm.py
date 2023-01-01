@@ -14,7 +14,7 @@ import time
 import requests
 
 
-browser = webdriver.Edge()
+browser = webdriver.Safari()
 
 browser.get('https://enarm.salud.gob.mx/enarm/2022/especialidad/seleccionEnarm')
 
